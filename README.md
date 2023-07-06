@@ -1,4 +1,4 @@
-![Imagen del proyecto]([https://github.com/eduardofierropro/Portfolio-desde-cero/blob/main/assets/home1.png](https://i.ibb.co/VTrntzR/1.png))
+![Imagen del proyecto](https://i.ibb.co/VTrntzR/1.png)
 
 > Aclaraciones:
 >
